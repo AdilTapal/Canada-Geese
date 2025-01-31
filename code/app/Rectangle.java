@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Rectangle {
+public class Rectangle extends Shape{
+    String color = "Purple";
 }
